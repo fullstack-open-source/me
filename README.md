@@ -9,10 +9,10 @@
 
 **Skilled AI Full-Stack Developer** with strong experience in Python, Django, FastAPI, and Generative AI technologies. Proficient in building scalable RESTful and GraphQL APIs, integrating third-party services (OpenAI, Stripe, PayPal, Twilio, Webhooks), and handling streaming and trading APIs. Experienced in designing responsive frontend interfaces using Django, Next.js, and Tailwind CSS. Led complete backend module development and deployment with a strong foundation in DevOps (Docker, Kubernetes, Git, CI/CD) and cloud platforms like AWS, GCP, Lambda GPU, and VPS.
 
-### 🌐 [View Live Portfolio →](https://mrdasdeveloper.github.io/fullstack/)
+### 🌐 [View Live Portfolio →](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrdasdeveloper.github.io/fullstack/)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://mrdasdeveloper.github.io/fullstack/ramesh-lead-ai-full-stack-developer.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://mrdasdeveloper.github.io/mrdasdeveloper/ramesh-lead-ai-full-stack-developer.pdf)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrdasdeveloper@gmail.com)
 
 ---
@@ -272,7 +272,7 @@ Introduction to ML
 - FastAPI
 - Docker
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 <td width="33%" valign="top"  style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; margin: 15px 0; transition: all 0.3s ease; position: relative; overflow: hidden;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
@@ -286,7 +286,7 @@ Introduction to ML
 - Redis
 - Nginx
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 <td width="33%" valign="top"  style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; margin: 15px 0; transition: all 0.3s ease; position: relative; overflow: hidden;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
@@ -300,7 +300,7 @@ Introduction to ML
 - TensorFlow
 - Kubernetes
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 </tr>
@@ -316,7 +316,7 @@ Introduction to ML
 - Celery
 - Redis
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 <td width="33%" valign="top"  style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; margin: 15px 0; transition: all 0.3s ease; position: relative; overflow: hidden;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
@@ -329,7 +329,7 @@ Introduction to ML
 - PostgreSQL
 - Stripe API
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 <td width="33%" valign="top"  style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; margin: 15px 0; transition: all 0.3s ease; position: relative; overflow: hidden;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
@@ -342,7 +342,7 @@ Introduction to ML
 - JWT
 - OAuth2
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 </tr>
@@ -358,7 +358,7 @@ Introduction to ML
 - AWS
 - CI/CD
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 <td width="33%" valign="top"  style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; margin: 15px 0; transition: all 0.3s ease; position: relative; overflow: hidden;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
@@ -371,7 +371,7 @@ Introduction to ML
 - Chart.js
 - PostgreSQL
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 <td width="33%" valign="top"  style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; margin: 15px 0; transition: all 0.3s ease; position: relative; overflow: hidden;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
@@ -384,7 +384,7 @@ Introduction to ML
 - i18n
 - PostgreSQL
 
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 </tr>
@@ -656,7 +656,7 @@ Explore my comprehensive technical documentation covering professional backgroun
 
 Skills, Projects, Experience, Achievements
 
-[![View](https://img.shields.io/badge/View-Portfolio-orange?style=for-the-badge)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Portfolio-orange?style=for-the-badge)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 <td width="25%" align="center">
@@ -666,7 +666,7 @@ Skills, Projects, Experience, Achievements
 
 Technology Usage, Microservices Impact
 
-[![View](https://img.shields.io/badge/View-Overview-blue?style=for-the-badge)](https://mrdasdeveloper.github.io/fullstack/presentation.html)
+[![View](https://img.shields.io/badge/View-Overview-blue?style=for-the-badge)](https://mrdasdeveloper.github.io/mrdasdeveloper/presentation.html)
 
 </td>
 <td width="25%" align="center">
@@ -676,7 +676,7 @@ Technology Usage, Microservices Impact
 
 AI Services, Security, Deployment
 
-[![View](https://img.shields.io/badge/View-Backend-green?style=for-the-badge)](https://mrdasdeveloper.github.io/fullstack/backend-presentation.html)
+[![View](https://img.shields.io/badge/View-Backend-green?style=for-the-badge)](https://mrdasdeveloper.github.io/mrdasdeveloper/backend-presentation.html)
 
 </td>
 <td width="25%" align="center">
@@ -686,7 +686,7 @@ AI Services, Security, Deployment
 
 React/Next.js/Django/Flutter
 
-[![View](https://img.shields.io/badge/View-Frontend-purple?style=for-the-badge)](https://mrdasdeveloper.github.io/fullstack/fronted-presentation.html)
+[![View](https://img.shields.io/badge/View-Frontend-purple?style=for-the-badge)](https://mrdasdeveloper.github.io/mrdasdeveloper/fronted-presentation.html)
 
 </td>
 </tr>
@@ -723,7 +723,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrdasdeveloper-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrdasdeveloper)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrdasdeveloper.github.io/fullstack/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 </tr>
@@ -735,7 +735,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://mrdasdeveloper.github.io/fullstack/ramesh-lead-ai-full-stack-developer.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://mrdasdeveloper.github.io/mrdasdeveloper/ramesh-lead-ai-full-stack-developer.pdf)
 
 </div>
 
