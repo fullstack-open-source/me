@@ -9,8 +9,8 @@
 
 **Lead Full-Stack Developer & Backend Expert** specializing in Python, FastAPI, Django, and Generative AI. Expert in building scalable microservices, RESTful/GraphQL APIs, and enterprise-grade backend architectures. Strong experience in cloud infrastructure, DevOps, and AI/ML integration.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrdasdeveloper.github.io/fullstack/)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://mrdasdeveloper.github.io/fullstack/ramesh-lead-ai-full-stack-developer.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://mrdasdeveloper.github.io/mrdasdeveloper/ramesh-lead-ai-full-stack-developer.pdf)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrdasdeveloper@gmail.com)
 
 ---
@@ -200,7 +200,7 @@ Explore comprehensive technical documentation covering architecture, implementat
 ### 📄 Portfolio
 **Personal Overview**
 
-[![View](https://img.shields.io/badge/View-Portfolio-orange?style=for-the-badge)](https://mrdasdeveloper.github.io/fullstack/)
+[![View](https://img.shields.io/badge/View-Portfolio-orange?style=for-the-badge)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 <td width="25%" align="center" style="background: linear-gradient(135deg, #ffffff 0%, #f9fafb 100%); border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
@@ -208,7 +208,7 @@ Explore comprehensive technical documentation covering architecture, implementat
 ### 📊 Overview
 **Project Tracks**
 
-[![View](https://img.shields.io/badge/View-Overview-blue?style=for-the-badge)](https://mrdasdeveloper.github.io/fullstack/presentation.html)
+[![View](https://img.shields.io/badge/View-Overview-blue?style=for-the-badge)](https://mrdasdeveloper.github.io/mrdasdeveloper/presentation.html)
 
 </td>
 <td width="25%" align="center" style="background: linear-gradient(135deg, #ffffff 0%, #f9fafb 100%); border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
@@ -216,7 +216,7 @@ Explore comprehensive technical documentation covering architecture, implementat
 ### 🔧 Backend & AI
 **Architecture Deep Dive**
 
-[![View](https://img.shields.io/badge/View-Backend-green?style=for-the-badge)](https://mrdasdeveloper.github.io/fullstack/backend-presentation.html)
+[![View](https://img.shields.io/badge/View-Backend-green?style=for-the-badge)](https://mrdasdeveloper.github.io/mrdasdeveloper/backend-presentation.html)
 
 </td>
 <td width="25%" align="center" style="background: linear-gradient(135deg, #ffffff 0%, #f9fafb 100%); border: 1px solid #e5e7eb; border-radius: 12px; padding: 20px;">
@@ -224,7 +224,7 @@ Explore comprehensive technical documentation covering architecture, implementat
 ### 💻 Frontend
 **System Design**
 
-[![View](https://img.shields.io/badge/View-Frontend-purple?style=for-the-badge)](https://mrdasdeveloper.github.io/fullstack/frontend-presentation.html)
+[![View](https://img.shields.io/badge/View-Frontend-purple?style=for-the-badge)](https://mrdasdeveloper.github.io/mrdasdeveloper/frontend-presentation.html)
 
 </td>
 </tr>
@@ -261,7 +261,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrdasdeveloper-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrdasdeveloper)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrdasdeveloper.github.io/fullstack/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrdasdeveloper.github.io/mrdasdeveloper/)
 
 </td>
 </tr>
@@ -271,7 +271,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://mrdasdeveloper.github.io/fullstack/ramesh-lead-ai-full-stack-developer.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://mrdasdeveloper.github.io/mrdasdeveloper/ramesh-lead-ai-full-stack-developer.pdf)
 
 </div>
 
