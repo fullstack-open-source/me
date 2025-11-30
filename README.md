@@ -58,18 +58,6 @@
 
 **Expertise:** Generative AI, Model Deployment, API Integration, Fine-tuning, Agentic AI, GPU Computing
 
----
-
-## 📊 Quick Stats
-
-<div align="center" style="background: linear-gradient(135deg, #f9fafb 0%, #ffffff 100%); padding: 30px; border-radius: 16px; margin: 30px 0; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);">
-
-![Experience](https://img.shields.io/badge/Experience-6%2B%20Years-blue?style=for-the-badge&logo=calendar&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-9%2B%20Completed-green?style=for-the-badge&logo=project&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-6%20Templates-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-![Companies](https://img.shields.io/badge/Companies-4%20Worked%20With-orange?style=for-the-badge&logo=building&logoColor=white)
-
-</div>
 
 ---
 
