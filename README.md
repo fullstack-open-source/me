@@ -73,60 +73,15 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table style="border-collapse: separate; border-spacing: 15px; width: 100%; margin: 20px 0;">
-<tr>
-<td width="50%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; transition: all 0.3s ease;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
-
-### 🤖 Klikyai AI Platform
-**AI-powered platform with generative AI tools**
-
-**Stack:** Django • Next.js • FastAPI • Docker
-
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
-
-</td>
-<td width="50%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; transition: all 0.3s ease;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
-
-### 🎛️ WINSTA-AI CMS
-**Multi-language content management system**
-
-**Stack:** Django • PostgreSQL • Redis • Nginx
-
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; transition: all 0.3s ease;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
-
-### 📱 Notification System
-**Real-time push notification microservices**
-
-**Stack:** Django • Firebase • Celery • Redis
-
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
-
-</td>
-<td width="50%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px; transition: all 0.3s ease;" onmouseover="this.style.borderColor='#667eea'; this.style.boxShadow='0 8px 25px rgba(102, 126, 234, 0.15)'; this.style.transform='translateY(-3px)';" onmouseout="this.style.borderColor='#e5e7eb'; this.style.boxShadow='none'; this.style.transform='translateY(0)';">
-
-### 🔐 Authentication System
-**Enterprise-grade JWT & OAuth2**
-
-**Stack:** Django • FastAPI • JWT • OAuth2
-
-[![View](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://mrdasdeveloper.github.io/fullstack/)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎁 Open Source Templates
 
-**Production-ready templates with enterprise-grade security and architecture**
+**Production-ready, enterprise-grade starter templates for building scalable applications**
+
+<div align="center" style="margin-bottom: 30px;">
+
+[![View All Open Source Projects](https://img.shields.io/badge/View%20All%20Open%20Source%20Projects-GitHub%20Organization-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fullstack-open-source)
+
+</div>
 
 <div align="center">
 
@@ -141,82 +96,82 @@
 <tr>
 <td width="33%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px;">
 
-### ⚡ FastAPI
-**High-performance Python API**
+### ⚡ FastAPI Backend
+**Enterprise-grade FastAPI backend**
 
-✅ JWT Auth • Profile Management  
-✅ PostgreSQL/SQLite • Swagger  
-✅ Docker • Production-Ready
+✅ JWT Auth • RBAC  
+✅ PostgreSQL • Docker  
+✅ Kubernetes Support
 
-[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/mrdasdeveloper/fastapi)
-[![Stars](https://img.shields.io/github/stars/mrdasdeveloper/fastapi?style=flat-square&logo=github)](https://github.com/mrdasdeveloper/fastapi)
-
-</td>
-<td width="33%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px;">
-
-### ⚛️ Next.js
-**React framework for production**
-
-✅ NextAuth.js • TypeScript  
-✅ Tailwind CSS • API Routes  
-✅ Server Components
-
-[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/mrdasdeveloper/nextjs)
-[![Stars](https://img.shields.io/github/stars/mrdasdeveloper/nextjs?style=flat-square&logo=github)](https://github.com/mrdasdeveloper/nextjs)
+[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/fullstack-open-source/fastapi-backend-with-sql)
+[![Stars](https://img.shields.io/github/stars/fullstack-open-source/fastapi-backend-with-sql?style=flat-square&logo=github)](https://github.com/fullstack-open-source/fastapi-backend-with-sql)
 
 </td>
 <td width="33%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px;">
 
-### 🟢 Node.js
-**Scalable Express.js backend**
+### 🟢 Node.js Backend
+**Production-ready Express.js backend**
 
-✅ JWT Auth • MongoDB/PostgreSQL  
-✅ RESTful API • Security  
-✅ Error Handling
+✅ JWT Auth • Prisma ORM  
+✅ PostgreSQL • Docker  
+✅ Kubernetes Support
 
-[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/mrdasdeveloper/nodejs)
-[![Stars](https://img.shields.io/github/stars/mrdasdeveloper/nodejs?style=flat-square&logo=github)](https://github.com/mrdasdeveloper/nodejs)
+[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/fullstack-open-source/nodejs-backend-with-sql)
+[![Stars](https://img.shields.io/github/stars/fullstack-open-source/nodejs-backend-with-sql?style=flat-square&logo=github)](https://github.com/fullstack-open-source/nodejs-backend-with-sql)
+
+</td>
+<td width="33%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px;">
+
+### ⚛️ Next.js Frontend
+**Modern Next.js starter**
+
+✅ App Router • TypeScript  
+✅ Tailwind CSS • API Integration  
+✅ Production Patterns
+
+[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/fullstack-open-source/nextjs-frontend-starter)
+[![Stars](https://img.shields.io/github/stars/fullstack-open-source/nextjs-frontend-starter?style=flat-square&logo=github)](https://github.com/fullstack-open-source/nextjs-frontend-starter)
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px;">
 
-### ⚛️ React.js
-**Modern React application**
+### ⚛️ React.js Frontend
+**Complete React starter**
 
-✅ JWT Auth • Protected Routes  
-✅ Context API/Redux • Axios  
-✅ Responsive Design
+✅ Vite • TypeScript  
+✅ React Router • State Management  
+✅ Modern Tooling
 
-[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/mrdasdeveloper/reactjs)
-[![Stars](https://img.shields.io/github/stars/mrdasdeveloper/reactjs?style=flat-square&logo=github)](https://github.com/mrdasdeveloper/reactjs)
+[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/fullstack-open-source/reactjs-frontend-starter)
+[![Stars](https://img.shields.io/github/stars/fullstack-open-source/reactjs-frontend-starter?style=flat-square&logo=github)](https://github.com/fullstack-open-source/reactjs-frontend-starter)
 
 </td>
 <td width="33%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px;">
 
-### 🐍 Django
-**Full-featured Python framework**
+### 🐍 Django Backend
+**Full-featured Django REST framework**
 
-✅ Django Auth • REST API  
-✅ Admin Panel • PostgreSQL  
+✅ Authentication • Admin Panel  
+✅ REST API • PostgreSQL  
 ✅ Production Settings
 
-[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/mrdasdeveloper/django)
-[![Stars](https://img.shields.io/github/stars/mrdasdeveloper/django?style=flat-square&logo=github)](https://github.com/mrdasdeveloper/django)
+[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/fullstack-open-source/django-backend-starter)
+[![Stars](https://img.shields.io/github/stars/fullstack-open-source/django-backend-starter?style=flat-square&logo=github)](https://github.com/fullstack-open-source/django-backend-starter)
 
 </td>
 <td width="33%" valign="top" style="background: #ffffff; border: 2px solid #e5e7eb; border-radius: 12px; padding: 20px;">
 
-### 🖥️ Server
-**Production infrastructure**
+### 🚀 View All Projects
+**Explore all open source projects**
 
-✅ Docker Compose • Nginx  
-✅ SSL/TLS • Load Balancing  
-✅ Monitoring & Logging
+✅ 7+ Repositories  
+✅ Full Stack Templates  
+✅ Active Development
 
-[![Template](https://img.shields.io/badge/View-Template-blue?style=for-the-badge)](https://github.com/mrdasdeveloper/server)
-[![Stars](https://img.shields.io/github/stars/mrdasdeveloper/server?style=flat-square&logo=github)](https://github.com/mrdasdeveloper/server)
+[![View Organization](https://img.shields.io/badge/View%20All%20Projects-GitHub%20Organization-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fullstack-open-source)
+[![Stars](https://img.shields.io/github/stars/fullstack-open-source?style=flat-square&logo=github)](https://github.com/fullstack-open-source)
 
 </td>
 </tr>
@@ -226,6 +181,7 @@
 - ⚡ **Quick Start** - Pre-configured with essential features
 - 🔒 **Security First** - Modern best practices built-in
 - 🏗️ **Production Ready** - Enterprise architecture patterns
+- 🌟 **Open Source** - Free to use and contribute
 
 ---
 
